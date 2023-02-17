@@ -20,7 +20,7 @@ print(name[-1])
 fruits = ["mango","orange","kiwi","lime","lemon","guava","strawberry"]
 print(fruits[0:-1])
 print(fruits[3])
-print()
+
 
 
 
@@ -30,12 +30,7 @@ stationery = ["pens","glues","ink","paper","steepler","pounch"]
 shoppings = vegetables + stationery
 print(shoppings) 
 print(shoppings[4])
-print("my name is"+name[0]+"and my favourite foood i "+ fruits[2])
-
-
-
-
-
+print("my name is"+name[0]+"and my favourite foood is"+ fruits[2])
 for vegetable in vegetables:
  print(vegetable)
  for shopping in shoppings:
