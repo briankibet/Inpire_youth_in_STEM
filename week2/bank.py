@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# This is a singe line commet
+# Python programme to illustrate
+# Name : brian kibet
+# Email : blkagatum@gmail.com
+# Date : 17th Feb 2023
+# File : bank.py
 # write  a program that calculate 16%
 # ranging between 100k - 15ok
 
