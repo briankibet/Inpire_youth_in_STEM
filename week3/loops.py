@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# This is a singe line commet
+# Python programme to illustrate
+# Name : brian kibet
+# Email : blkagatum@gmail.com
+# Date : 21th feb 2023
+# File : looops.py
+#when using loop
 #do while
 num = 24
 while(True):

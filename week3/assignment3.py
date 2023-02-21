@@ -1,4 +1,11 @@
-n=8
+#!/usr/bin/env python3
+# This is a singe line commet
+# Python programme to illustrate
+# Name : brian kibet
+# Email : blkagatum@gmail.com
+# Date : 21th feb 2023
+# File : assignment3.py
+#when drawing pascals triangle
 x=[]
 for i in range(n):
     x.append([])
