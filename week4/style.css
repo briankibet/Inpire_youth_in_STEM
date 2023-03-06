@@ -1,0 +1,46 @@
+.body{
+
+    background-color: aquamarine;
+}
+.h1{
+    font-size:40px;
+    color: #011301;
+    align-content: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-height: 10px;
+
+}
+body{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+p{
+    color: chartreuse;
+    font-size: large;
+    align-self: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    <button style="color: #e21463;margin: 25px;align-self: center;">send message</button><br><br>
+                    <button style="color: #33f30d;margin: auto;align-self: normal;">EMAIL</button>
+                    <button style="color:rgba(1, 43, 11, 0.32);margin:25px;position:center;background-color:rgb(16, 212, 159);border-radius:15px;border:none;align-self:center" >SEND MESSAGE</button>
+
+}
+#mssg_button {
+    color: #3700ff;
+    margin: 24px;
+    align-self: center;
+    background-color: #f71919;
+    border: var(10px);
+    border-radius: 10px;
+    <button style="color:rgba(1, 43, 11, 0.32);margin:25px;position:center;background-color:rgb(16, 212, 159);border-radius:15px;border:none;align-sel
+}
+#more-button{color:rgba(0, 90, 27, 0.867);
+    margin:25px;
+    position:center;
+    background-color:rgb(212, 16, 212);
+    border-radius:15px;
+    border:none;
+    align-self:center  
