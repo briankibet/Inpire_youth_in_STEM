@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet"href="style">
+</head>
+<body>
+    <h1 id="text">javascript Basic</h1>
+    <h1 id="f_name"></h1>
+    <h1 id="s_name"></h1>
+    <h1 id="age"></h1>
+    <h1 id="f_number"></h1>
+    <h2 id="s_number"></h2>
+    <h2 id="sum"></h2>
+    <h2 id="fruits"></h2>
+    <h2 id="mssg"></h2>
+    
+    <script>
+        //variables in java scrpit
+        //number 
+        var f_number = 12;
+        var s_number = 10;
+        var sum_num = f_number + s_number
+        var diff_num = f_number - s_number
+        var pro_num = f_number * s_number
+        var quot_num = f_number / s_number
+        var modulus = f_number % s_number
+        var n1,n2,n3,n3,n4; //declare variables
+
+        //string
+        var my_first_name = "brian"
+        var my_second_name = "kibet"
+        var my_city = "city"
+        var full_name = my_first_name + "brian" + my_second_name;
+        var age =18;
+        
+        //float - decimal
+        var weight = 69;
+
+
+        //arays
+        let fruits = ["banana","apple","lime","guava","oranges"]
+        let my_fruits =fruits[fruits.length-1];
+        var mssg = "message"
+        //conditions -- if else
+        if (age > 18 ) {
+            msg = "you can drive";
+        }else{
+            msg = "still too young to drive"
+        }
+
+        let my_fruit = fruits[fruits.length -1]
+        document.getElementById("f_name").innerHTML =my_first_name
+        document.getElementById("s_name").innerHTML =my_second_name
+        document.getElementById("f_number").innerHTML =f_number
+        document.getElementById("s_number").innerHTML =s_number
+        document.getElementById("sum").innerHTML =sum_num
+        
+
+    </script>
+    <button>click me</button>
+</body>
+</html>
