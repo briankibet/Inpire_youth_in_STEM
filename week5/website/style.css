@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     background-color: transparent;
+    
 
 }
 
@@ -9,10 +10,11 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(images/jkuatnow.jpg),linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
+    background-image: url(images/banner.png),linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
     background-position: center;
     background-size: cover;
     position: relative;
+    color: #1e06f3;
 }
 .nav{
     display: flex;
@@ -44,7 +46,7 @@ nav img{
     font: size 13px;\
 }
 .TEXT-BOOK{
-  color: hsl(64, 96%, 52%); 
+  color: hwb(335 4% 4%); 
   padding: 10px 12px; 
 }
 

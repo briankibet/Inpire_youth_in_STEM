@@ -1,20 +1,17 @@
-   *{
-    background-image: none;
-   }
-   body{  background-color: cyan;
+   body{  background-color: #d3cfcf;
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size-adjust: 14pxs;
         font-weight: bold;
     }
-    hi{background-color: blue;
+    hi{background-color: #e4e4e4;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
-    text-decoration: aqua;
+    text-decoration: #ff00ff;
     color: aliceblue;
     }
     
-    button{background-color: aqua;
+    button{background-color: hsl(0, 2%, 48%);
     margin: 24pxs;
     align-self: center;body{  background-color: cyan;
         font-family: Georgia, 'Times New Roman', Times, serif;
@@ -25,11 +22,11 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
-    text-decoration: aqua;
+    text-decoration: #9dff00;
     color: aliceblue;
     }
     
-    button{background-color: aqua;
+    button{background-color: #0400ff;
     margin: 24pxs;
     align-self: center;
     vertical-align: auto;
